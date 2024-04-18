@@ -1,0 +1,14 @@
+D:\Works\AlıisverisHesaplama\bin\Debug\net8.0\AlıisverisHesaplama.exe
+D:\Works\AlıisverisHesaplama\bin\Debug\net8.0\AlıisverisHesaplama.deps.json
+D:\Works\AlıisverisHesaplama\bin\Debug\net8.0\AlıisverisHesaplama.runtimeconfig.json
+D:\Works\AlıisverisHesaplama\bin\Debug\net8.0\AlıisverisHesaplama.dll
+D:\Works\AlıisverisHesaplama\bin\Debug\net8.0\AlıisverisHesaplama.pdb
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.AssemblyInfoInputs.cache
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.AssemblyInfo.cs
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.csproj.CoreCompileInputs.cache
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.dll
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\refint\AlıisverisHesaplama.dll
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.pdb
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\AlıisverisHesaplama.genruntimeconfig.cache
+D:\Works\AlıisverisHesaplama\obj\Debug\net8.0\ref\AlıisverisHesaplama.dll
